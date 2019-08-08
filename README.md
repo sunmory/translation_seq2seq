@@ -1,0 +1,1 @@
+# Seq2Seq model for en2ch translation with tensorflow
