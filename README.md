@@ -1,1 +1,1 @@
-# Seq2Seq model for en2ch translation with tensorflow
+# Seq2Seq model for En2Ch translation with tensorflow
